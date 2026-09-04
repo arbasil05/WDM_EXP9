@@ -35,7 +35,3 @@ for this purpose.
 ### Result:
 Therefore, preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
 
-
-
-### Result:
-Therefore, preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
